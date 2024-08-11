@@ -1,16 +1,18 @@
-# habit_tracker
+<h1 align="center"> 🔶🔸Counter App using Getx🔸🔶 </h1>
 
-A new Flutter project.
+- GetX is a popular state management solution for Flutter applications. It provides a simple and efficient way to manage the state of your application without the need for complex boilerplate code. GetX offers reactive state management, dependency injection, and route management, making it a comprehensive solution for developers.
+- This app shows how to create a counter app using getx and how to navigate from one page to another page.
 
-## Getting Started
+<h1 align="left"> </h1>
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img height="550" src="https://github.com/user-attachments/assets/a0151d52-017e-47bb-8443-a0b3c2067652"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="550" src="https://github.com/user-attachments/assets/1a4a0770-3e0b-4191-87c1-e719f39783fd"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<h1 align="left"> </h1>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+<video height="550" src="https://github.com/user-attachments/assets/a9f63ff9-ad32-46ee-9bfa-7d9a7feab769"/>
+</div>
