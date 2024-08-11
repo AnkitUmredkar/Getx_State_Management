@@ -1,7 +1,7 @@
 <h1 align="center"> 🔶🔸Counter App using Getx🔸🔶 </h1>
 
 - GetX is a popular state management solution for Flutter applications. It provides a simple and efficient way to manage the state of your application without the need for complex boilerplate code. GetX offers reactive state management, dependency injection, and route management, making it a comprehensive solution for developers.
-## Key Features:
+## Key Features of Getx:
 
 - **Reactive State Management** : GetX allows you to create reactive variables that automatically update the UI when their values change. This is achieved using `Rx` types, which can be easily observed and manipulated.
 - **Dependency Injection** : GetX provides a powerful and easy-to-use dependency injection system. You can manage the lifecycle of your dependencies and ensure they are available where needed without cluttering your codebase.
