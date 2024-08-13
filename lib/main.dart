@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:habit_tracker/CRUD%20Operation%20_Employee/View/showEmpData.dart';
 import 'Counter App/View/counterAddPage.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData.dark(),
-      home: const CounterAddPage(),
+      home: const ShowEmpData(),
     );
   }
 }

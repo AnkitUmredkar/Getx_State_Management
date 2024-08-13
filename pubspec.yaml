@@ -38,6 +38,8 @@ dependencies:
   provider: ^6.1.2
   lottie: ^3.1.2
   get: ^4.6.6
+  fluttertoast: ^8.2.6
+  flutter_slidable: ^3.1.1
 
 dev_dependencies:
   flutter_test:

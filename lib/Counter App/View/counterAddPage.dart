@@ -11,16 +11,16 @@ class CounterAddPage extends StatelessWidget {
     CounterController counterController = Get.put(CounterController());
     return SafeArea(
       child: Scaffold(
-        backgroundColor: Color(0xFF393E46),
+        backgroundColor: Color(0xFF282B31),
         appBar: AppBar(
-          backgroundColor: Colors.teal,
+          backgroundColor: Colors.indigo.shade700,
           toolbarHeight: 70,
           centerTitle: true,
           elevation: 8.5,
           shadowColor: Colors.black,
           actions: [
             IconButton(onPressed: (){
-              Get.to(const CounterMinusPage(),transition: Transition.leftToRight);
+              Get.to(const CounterMinusPage(),transition: Transition.rightToLeft);
             }, icon: Icon(Icons.keyboard_double_arrow_right,color: Colors.white,size: 38,))
           ],
           title: const Text(
@@ -65,10 +65,10 @@ class CounterAddPage extends StatelessWidget {
                         shape: BoxShape.circle,
                         boxShadow: [
                           BoxShadow(
-                              color: Colors.teal,
+                              color: Colors.indigoAccent,
                               spreadRadius: 0,
                               blurRadius: 8,
-                              offset: Offset(10, 10)),
+                              offset: Offset(6.5, 6.5)),
                         ]),
                     child: const Text(
                       '+',
