@@ -74,13 +74,13 @@ class HomePage extends StatelessWidget {
 
 - This Flutter application implements a CRUD (Create, Read, Update, Delete) functionality for managing employee details using the GetX state management package.
 
-1. **Create**: Add new employee data to a list managed by a GetX controller. Use `update()` to refresh the UI after adding the employee.
+1. **Create**: Add new employee data like name, salary,designation and id using addNewEmployee method which is stored in Controller. This Details Add to a employeeList and it is managed by a GetX controller..
 
-2. **Read**: Display the list of employees by observing the in-memory list with `Obx` or `GetBuilder` in the UI. The list is stored in the controller.
+2. **Read**: Display the list of employees by observing the employeeList list with `Obx` or `GetBuilder` in the UI. The list is stored in the controller.
 
-3. **Update**: Modify an employee's details directly in the list using a method in the controller. After updating, call `update()` to refresh the UI.
+3. **Update**: Modify an employee's details by calling editEmployeeDetails method in the controller.
 
-4. **Delete**: Remove an employee from the in-memory list through a controller method, then call `update()` to reflect the changes in the UI.
+4. **Delete**: Remove an employee from employeeList through a deleteEmployee method which is store in Controller.
 
 <div align="center">
   <img height="550" align="left" src="https://github.com/user-attachments/assets/2924d12b-0692-4e78-9a98-d2005a15000d"/>
