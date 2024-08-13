@@ -29,6 +29,8 @@
 <a  href="https://github.com/AnkitUmredkar/Getx_State_Management/tree/master/lib/Counter%20App">-> 📂 Go To Dart File 📂<-</a>
 </div>
 
+<h1 align="left"> </h1>
+
 <h1 align="center"> 🔶🔸CRUD Operation For Employee Management System Using Getx 🔸🔶 </h1>
 
 <div align="center">
@@ -57,4 +59,10 @@
 
 <div align="center">
 <video height="550" src="https://github.com/user-attachments/assets/b1cf54fd-5013-4400-9220-9666f1f1d769"/>
+</div>
+
+<h1 align="left"> </h1>
+
+<div align = "center">
+<a  href="https://github.com/AnkitUmredkar/Getx_State_Management/tree/master/lib/Counter%20App">-> 📂 Go To Dart File 📂<-</a>
 </div>
