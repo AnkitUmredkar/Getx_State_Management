@@ -28,3 +28,33 @@
 <div align = "center">
 <a  href="https://github.com/AnkitUmredkar/Getx_State_Management/tree/master/lib/Counter%20App">-> 📂 Go To Dart File 📂<-</a>
 </div>
+
+<h1 align="center"> 🔶🔸CRUD Operation For Employee Management System Using Getx 🔸🔶 </h1>
+
+<div align="center">
+  <img height="550" align="left" src="https://github.com/user-attachments/assets/2924d12b-0692-4e78-9a98-d2005a15000d"/>
+  <img height="550" src="https://github.com/user-attachments/assets/f1f0cd5a-96af-4c05-8a24-e007371b0be1"/>
+  <img height="550"  align="right" src="https://github.com/user-attachments/assets/46275b67-5cbf-4747-b7fe-2ef78cfb8b94"/>
+</div>
+
+<h1 align="left"> </h1>
+
+<div align="center">
+  <img height="550" align="left" src="https://github.com/user-attachments/assets/db242053-6656-49c0-b0f7-2a3df8917984"/>
+  <img height="550" src="https://github.com/user-attachments/assets/aa787994-1307-46e3-9470-122e008d4858"/>
+  <img height="550"  align="right" src="https://github.com/user-attachments/assets/adaaf4f5-6cd9-41a7-b986-9e2696ce423f"/>
+</div>
+
+<h1 align="left"> </h1>
+
+<div align="center">
+  <img height="550" src="https://github.com/user-attachments/assets/17e1e6bd-51ed-4d61-a9eb-132e862c0295"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="550" src="https://github.com/user-attachments/assets/45f3f4ef-dfb2-4891-a88e-50551b8fcac2"/>
+</div>
+
+<h1 align="left"> </h1>
+
+<div align="center">
+<video height="550" src="https://github.com/user-attachments/assets/b1cf54fd-5013-4400-9220-9666f1f1d769"/>
+</div>
