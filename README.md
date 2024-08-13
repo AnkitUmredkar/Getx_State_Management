@@ -82,6 +82,8 @@ class HomePage extends StatelessWidget {
 
 4. **Delete**: Remove an employee from employeeList through a deleteEmployee method which is store in Controller.
 
+<h1 align="left"> </h1>
+
 <div align="center">
   <img height="550" align="left" src="https://github.com/user-attachments/assets/2924d12b-0692-4e78-9a98-d2005a15000d"/>
   <img height="550" src="https://github.com/user-attachments/assets/f1f0cd5a-96af-4c05-8a24-e007371b0be1"/>
