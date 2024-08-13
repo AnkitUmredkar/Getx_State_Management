@@ -8,6 +8,40 @@
 - **Route Management** : GetX simplifies navigation in your Flutter app by offering a built-in routing system. This system allows you to manage routes, pass parameters, and handle route transitions seamlessly.
 - **Performance** : GetX is designed to be lightweight and efficient. It minimizes the overhead associated with state management, ensuring that your app remains fast and responsive.
 
+## Example : 
+
+```bash
+import 'package:get/get.dart';
+
+class CounterController extends GetxController {
+  var count = 0.obs;
+
+  void increment() {
+    count++;
+  }
+}
+
+class HomePage extends StatelessWidget {
+  final CounterController counterController = Get.put(CounterController());
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('GetX Counter'),
+      ),
+      body: Center(
+        child: Obx(() => Text('Count: ${counterController.count}')),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: counterController.increment,
+        child: Icon(Icons.add),
+      ),
+    );
+  }
+}
+```
+
 <h1 align="left"> </h1>
 
 <h1 align="center"> 🔶🔸Counter App using Getx🔸🔶 </h1>
