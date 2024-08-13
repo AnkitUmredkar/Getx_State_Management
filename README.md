@@ -8,6 +8,8 @@
 - **Route Management** : GetX simplifies navigation in your Flutter app by offering a built-in routing system. This system allows you to manage routes, pass parameters, and handle route transitions seamlessly.
 - **Performance** : GetX is designed to be lightweight and efficient. It minimizes the overhead associated with state management, ensuring that your app remains fast and responsive.
 
+<h1 align="left"> </h1>
+
 <h1 align="center"> 🔶🔸Counter App using Getx🔸🔶 </h1>
 
 - ```This app shows how to create a counter app using getx and how to navigate from one page to another page.```
